@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+
 export default function Home() {
   return (
     <>
@@ -57,10 +58,9 @@ export default function Home() {
               alt="Featured Product"
               fill
               priority
-              sizes="(max-width: 750px) 100vw, 360px"
+              sizes="360px"
             />
           </div>
-
         </section>
 
       </main>

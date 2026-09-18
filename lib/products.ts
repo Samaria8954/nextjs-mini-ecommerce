@@ -35,6 +35,7 @@ const products = [
     reviews: 75,
     image: "/products/headphones.jpg",
   },
+  
 ];
 
 export async function getProducts() {
