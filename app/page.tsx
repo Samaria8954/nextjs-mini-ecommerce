@@ -54,7 +54,7 @@ export default function Home() {
 
           <div className="hero-image">
             <Image
-              src="/products/Watch.jfif"
+              src="/products/commerrce.jpg"
               alt="Featured Product"
               fill
               priority
